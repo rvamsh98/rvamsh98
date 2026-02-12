@@ -38,5 +38,9 @@ SOC & Detection Engineering focused graduate student with hands-on experience de
 
 ---
 
-📫 Email: vamshiramavath08@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/vamshiramavath
+## 📫 Contact
+
+- Email: vamshiramavath08@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/vamshiramavath  
+- GitHub: https://github.com/rvamsh98
+
