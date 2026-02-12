@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vamshi Ramavath
 
-SOC & Detection Engineering focused graduate student with hands-on experience in SIEM monitoring, detection engineering, and incident response using Splunk, ELK Stack, Snort, and Sysmon.
+SOC & Detection Engineering focused graduate student with hands-on experience designing and tuning SIEM-based detection environments processing 10,000+ security events daily.
 
 ---
 
