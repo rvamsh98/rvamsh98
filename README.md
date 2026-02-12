@@ -26,6 +26,12 @@ SOC & Detection Engineering focused graduate student with hands-on experience de
 - SOC Incident Reports  
 
 ---
+## 🔹 Detection Highlights
+- Engineered 26 custom Snort detection rules  
+- Reduced false positives by 40% through baseline tuning  
+- Aggregated 200+ low-level alerts into 15 high-confidence attack patterns  
+- Produced 25+ SOC-style incident reports with ATT&CK & D3FEND mapping
+
 
 ## 🔹 Certifications
 - CompTIA Security+
