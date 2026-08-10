@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vamshi Ramavath
 
-SOC & Detection Engineering focused graduate student with hands-on experience designing and tuning SIEM-based detection environments processing 10,000+ security events daily.
+Cybersecurity Analyst with hands-on experience in SIEM engineering, log analysis, threat hunting, and incident response. Skilled in building detection pipelines, analyzing network traffic, and investigating credential and DLP threats across enterprise and cloud environments.
 
 ---
 
