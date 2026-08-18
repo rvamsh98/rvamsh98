@@ -40,7 +40,6 @@ Cybersecurity Analyst with hands-on experience in SIEM engineering, log analysis
 
 ## 📫 Contact
 
-- Email: vamshiramavath08@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/vamshiramavath  
+- Email: vamshiramavath08@gmail.com   
 - GitHub: https://github.com/rvamsh98
 
